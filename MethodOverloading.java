@@ -36,6 +36,7 @@ public class MethodOverloading {
         System.out.print(symbol);
         }
     }
+    
     public static void main(String[] args) {
         display();
         System.out.println(Multiply(2, 2));    
